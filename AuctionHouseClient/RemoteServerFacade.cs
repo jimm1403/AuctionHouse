@@ -28,5 +28,31 @@ namespace AuctionHouseClient
 			SR = new StreamReader(nws);
 			SW = new StreamWriter(nws);
 		}
+		public void ConnectToServer()
+		{
+			client.Connect(server, port);
+		}
+		public void Close()
+		{
+			nws.Close();
+		}
+		public void Dispose()
+		{
+			nws.Dispose();
+		}
+		public void ReceiveFromServer()
+		{
+			string receiveMessage;
+			while (true)
+			{
+				receiveMessage = SR.ReadLine();
+			}
+		}
+		public void SendToServer(string message)
+		{
+			SW.WriteLine(message);
+			SW.Flush();
+		}
+
 	}
 }
