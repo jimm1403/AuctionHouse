@@ -1,0 +1,7 @@
+C:\Users\Jimmi Christensen\Desktop\AuctionHouse\AuctionHouseClient\bin\Debug\AuctionHouseClient.exe.config
+C:\Users\Jimmi Christensen\Desktop\AuctionHouse\AuctionHouseClient\bin\Debug\AuctionHouseClient.exe
+C:\Users\Jimmi Christensen\Desktop\AuctionHouse\AuctionHouseClient\bin\Debug\AuctionHouseClient.pdb
+C:\Users\Jimmi Christensen\Desktop\AuctionHouse\AuctionHouseClient\obj\Debug\AuctionHouseClient.csprojResolveAssemblyReference.cache
+C:\Users\Jimmi Christensen\Desktop\AuctionHouse\AuctionHouseClient\obj\Debug\AuctionHouseClient.csproj.CoreCompileInputs.cache
+C:\Users\Jimmi Christensen\Desktop\AuctionHouse\AuctionHouseClient\obj\Debug\AuctionHouseClient.exe
+C:\Users\Jimmi Christensen\Desktop\AuctionHouse\AuctionHouseClient\obj\Debug\AuctionHouseClient.pdb

@@ -10,6 +10,8 @@ namespace AuctionHouseClient
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Client is Up and Running");
+			Console.ReadKey();
 		}
 	}
 }
