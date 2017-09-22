@@ -10,6 +10,8 @@ namespace AuctionHouseServer
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Server is Up and Running!");
+			Console.ReadKey();
 		}
 	}
 }
