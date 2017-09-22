@@ -29,7 +29,12 @@ namespace AuctionHouseServer
 
 		public void HandleClient()
 		{
-
+			string message = "Hi client";
+			while (true)
+			{
+				SendToClient(message);
+				Thread.Sleep(3000);
+			}
 		}
 
 		public void StartClient()
