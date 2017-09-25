@@ -34,7 +34,9 @@ namespace AuctionHouseServer
 			{
 				SendToClient(message);
 				Thread.Sleep(3000);
+				SendToClient("Hi again");
 			}
+			
 		}
 
 		public void StartClient()
